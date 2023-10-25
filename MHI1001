@@ -1,6 +1,5 @@
-~ $ git clone https://github.com/csbhullar5/SCULPTDGrowth.git
-~ $ cd username.github.io
-~ $ echo "Hello World" > index.html
-~ $ git add --all
-~ $ git commit -m "Initial commit"
-~ $ git push -u origin main
+<html>
+  <h1>
+   MHI1001
+  </h1>
+</html>
